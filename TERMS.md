@@ -89,7 +89,7 @@ THE SERVICE IS PROVIDED **“AS IS”** WITHOUT WARRANTIES OF ANY KIND, EXPRESS 
 
 ## 10. Limitation of Liability
 
-GK is **not liable** for indirect, incidental, special, consequential or punitive damages, nor for loss of profits, data, or goodwill.  
+YS is **not liable** for indirect, incidental, special, consequential or punitive damages, nor for loss of profits, data, or goodwill.  
 Aggregate liability is capped at **€50** or the amount you paid for Premium in the past 12 months (whichever is greater).
 
 ---
