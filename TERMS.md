@@ -61,7 +61,7 @@ _Last updated: **14 June 2025**_
 
 ## 6. Payments & Premium
 
-* Payments handled by Ko-fi / Patreon; GK never touches your card data.  
+* Payments handled by Stripe; YS never touches your card data.  
 * Refunds & disputes follow the payment platform’s own terms.  
 * Lapsed subscriptions may remove Premium features.
 
@@ -69,8 +69,8 @@ _Last updated: **14 June 2025**_
 
 ## 7. Intellectual Property
 
-* **Your Content:** you keep ownership. You grant GK a **non-exclusive, worldwide, royalty-free licence** to store, process, display, and (if not opted-out) use it to improve the Service.  
-* **Our Content:** GK owns all code, models, and branding. No reverse-engineering or resale without written permission.
+* **Your Content:** you keep ownership. You grant YS a **non-exclusive, worldwide, royalty-free licence** to store, process, display, and (if not opted-out) use it to improve the Service.  
+* **Our Content:** YS owns all code, models, and branding. No reverse-engineering or resale without written permission.
 
 ---
 
@@ -96,7 +96,7 @@ Aggregate liability is capped at **€50** or the amount you paid for Premium in
 
 ## 11. Indemnification
 
-You will indemnify and hold GK (and contributors) harmless from any claim arising out of:
+You will indemnify and hold YS (and contributors) harmless from any claim arising out of:
 
 * your use or misuse of the Service;  
 * your violation of these Terms or the law;  
