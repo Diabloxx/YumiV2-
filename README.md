@@ -200,7 +200,7 @@ Join our vibrant community: **[discord.gg/YK2rFqpayn](https://discord.gg/YK2rFqp
 
 Transform your Discord experience today with YumiV2's advanced AI companion technology!
 
-**[🤖 Invite YumiV2 to Your Server](https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=0&scope=bot%20applications.commands)**
+**[🤖 Invite YumiV2 to Your Server](https://discord.com/api/oauth2/authorize?client_id=1374501660642119691&permissions=0&scope=bot%20applications.commands)**
 
 **[🌐 Visit Dashboard](https://bot.guttakrutt.org)** | **[💬 Join Community](https://discord.gg/YK2rFqpayn)** | **[📋 View Privacy Policy](https://bot.guttakrutt.org/privacy)**
 
